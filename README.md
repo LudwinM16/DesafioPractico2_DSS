@@ -1,6 +1,6 @@
 # DesafioPractico2_DSS
-Ludwin Enrique Martínez Alfaro MA222763
+<b>Ludwin Enrique Martínez Alfaro MA222763</b>
 <br>
-Xander Israel Martínez Hernández MH222766
+<b>Xander Israel Martínez Hernández MH222766</b>
 
 
